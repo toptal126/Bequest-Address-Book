@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout Layout snapshot 1`] = `
+<div
+  className="css-nen11g-MuiStack-root"
+>
+  <header
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-1aodap3-MuiPaper-root-MuiAppBar-root"
+  >
+    <div
+      className="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+    >
+      <div
+        className="MuiToolbar-root MuiToolbar-regular css-r6ewbb-MuiToolbar-root"
+      >
+        <img
+          alt="Logo"
+          src="/addressBook.png"
+          width={40}
+        />
+        <a
+          data-testid="header-logo-link"
+          href="/"
+          onClick={[Function]}
+        >
+          <h5
+            className="MuiTypography-root MuiTypography-h5 MuiTypography-noWrap css-jgqr1i-MuiTypography-root"
+            data-testid="header-logo-text"
+          >
+            Address Book
+          </h5>
+        </a>
+      </div>
+    </div>
+  </header>
+  <div
+    className="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-12jwn1w-MuiToolbar-root"
+  />
+  <div
+    className="MuiContainer-root MuiContainer-maxWidthLg css-1xon2ic-MuiContainer-root"
+    data-testid="layout-container"
+  >
+    <h1>
+      test
+    </h1>
+  </div>
+</div>
+`;
